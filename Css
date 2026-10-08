@@ -29,15 +29,10 @@ p {font-family:georgia;
    font-size:12px;green;}
 
 h2 { text-align:center;
-    font-weight:bold;
-  ol {
-    list-style-type;
-    display: block;
-    padding-left: 40px;
-}
-
+    font-weight:bold;}
+  
 li {display:list-item;
 margin-bottom:8px;}
 
-html,body {background-color:aqua;
+body {background-color:aqua;
            border-radius:25px;}
