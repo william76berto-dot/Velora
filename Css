@@ -30,8 +30,13 @@ p {font-family:georgia;
 
 h2 { text-align:center;
     font-weight:bold;
-  
-li {margin-bottom:8px;}
+  ol {
+    list-style-type: decimal !important;
+    display: block;
+    padding-left: 40px;
+}
+li {display:list-item;
+margin-bottom:8px;}
 
 body {background-color:aqua;
 border-radius:25px;}
