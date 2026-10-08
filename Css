@@ -21,6 +21,7 @@ width: 250px;
 }
 
 h1 {text-align:center;
+    margin-top:5px;
     font-weight:bold;
     color:green;}
 
@@ -31,6 +32,11 @@ h2 { text-align:center;
     font-weight:bold;
     color:green;}
 
-ol {list-style-type:none;background-color:green;border-radius:25px;}
-li {display:inline;margin-right:20px;solid:gray;}
-body {background-color:aqua;border-radius: 25px;}
+ol {list-style-type:none;
+background-color:green;
+border-radius:25px;}
+
+li {margin-bottom:8px;}
+
+body {background-color:aqua;
+border-radius:25px;}
