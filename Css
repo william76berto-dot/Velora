@@ -31,12 +31,11 @@ p {font-family:georgia;
 h2 { text-align:center;
     font-weight:bold;
   ol {
-    list-style-type: decimal !important;
+    list-style-type;
     display: block;
     padding-left: 40px;
 }
 li {display:list-item;
 margin-bottom:8px;}
 
-body {background-color:aqua;
-border-radius:25px;}
+body {background-color:linear-gradient;}
