@@ -24,10 +24,10 @@ h1 {text-align:center;
     font-weight:bold;
     color:green;}
 p {font-family:georgia;
-   font-size:12px;}
+   font-size:12px;green;}
 h2 { text-align: center;
     font-weight: bold;
-    color: gree;}
+    color: green;}
 ol {list-style-type:none;background-color:green;border-radius:25px;}
-li {margin-right:20px;solid:gray;}
+li {margin-bottom:20px;solid:gray;}
 body {background-color:aqua;border-radius: 25px;}
