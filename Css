@@ -13,6 +13,10 @@ content: 'CodePen ♥ The Web';
   padding: 4px 8px;
   border-radius: 4px;
 }
+img { display:block;
+margin-left:auto;
+margin-right:auto;
+width:250 pc;}
 
 h1 {text-align:center;
     font-weight:bold;
