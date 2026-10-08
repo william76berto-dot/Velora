@@ -25,8 +25,15 @@ h1 {text-align:center;
     font-weight:bold;
     color:green;}
 
-p {font-family:georgia;
+p1 {font-family:georgia;
    font-size:12px;green;}
+
+p2{font-family:georgia;
+  font-size:18px;line-
+  height:1.5;border:2px;
+  background-color:yellow;
+  padding:15px;border-radius:12px;
+  margin:20px 10 px}
 
 h2 { text-align:center;
     font-weight:bold;}
