@@ -38,4 +38,7 @@ h2 { text-align:center;
 li {display:list-item;
 margin-bottom:8px;}
 
-body {background-color:linear-gradient;}
+body {background-color:linear-gradient;
+      margin: 0;
+     padding: 20px;
+     font-family: Georgia, serif;}
