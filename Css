@@ -25,6 +25,9 @@ h1 {text-align:center;
     color:green;}
 p {font-family:georgia;
    font-size:12px;}
-ul {list-style-type:none;background-color:green;border-radius:25px;}
-li {display:inline;margin-right:20px;solid:gray;}
+h2 { text-align: center;
+    font-weight: bold;
+    color: gree;}
+ol {list-style-type:none;background-color:green;border-radius:25px;}
+li {margin-right:20px;solid:gray;}
 body {background-color:aqua;border-radius: 25px;}
