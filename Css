@@ -1,0 +1,24 @@
+html::before {
+  content: 'CodePen ♥ The Web';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  font-family: monospace;
+  opacity: 0.6;
+  background: rebeccapurple;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+h1 {text-align:center;
+    font-weight:bold;
+    color:green;}
+p {font-family:georgia;
+   font-size:12px;}
+ul {list-style-type:none;background-color:green;border-radius:25px;}
+li {display:inline;margin-right:20px;solid:gray;}
+body {background-color:aqua;border-radius: 25px;}
