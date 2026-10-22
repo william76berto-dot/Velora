@@ -24,6 +24,10 @@ h1 {text-align:center;
     margin-top:5px;
     font-weight:bold;
     color:green;}
+ul{list-style-type:none;
+   background-color:Black}
+li{display:inline;border-right:
+3px solid White}
 
 p1 {font-family:georgia;
    font-size:12px;green;}
