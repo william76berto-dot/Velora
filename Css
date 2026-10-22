@@ -26,8 +26,9 @@ h1 {text-align:center;
     color:green;}
 ul{list-style-type:none;
    background-color:yellow}
-li{display:inline;border-right:
-3px solid White}
+
+li{display:flex;font-size:20px
+   font-weight}
 
 p1 {font-family:georgia;
    font-size:12px;green;}
