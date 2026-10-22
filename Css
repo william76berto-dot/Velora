@@ -24,12 +24,11 @@ h1 {text-align:center;
     margin-top:5px;
     font-weight:bold;
     color:green;}
-ul{list-style-type:none;
-   background-color:Black}
+ul{list-style-type:none:
+  background-color:white}
 
-li{display:inline;border-right:3px
-solid gray;padding:0 20px;color:White;
-font-size:20px; font-weight:bold}
+li{display:inline;border-right:
+  3px black}
 
 p1 {font-family:georgia;
    font-size:12px;green;}
