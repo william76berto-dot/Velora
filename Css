@@ -24,17 +24,19 @@ h1 {text-align:center;
     margin-top:5px;
     font-weight:bold;
     color:green;}
-ul{list-style-type: none;
+
+ul {list-style-type: none;
     background-color: #292b38;
     padding: 15px 25px;
     margin: 0;}
-li{display: inline;
+
+li { display: inline-block;
     border-right: 3px solid gray;
     padding: 0 20px;
     color: white;
     font-size: 20px;
     font-weight: bold;
-}
+    line-height: 1.5;}
 
 p1 {font-family:georgia;
    font-size:12px;green;}
