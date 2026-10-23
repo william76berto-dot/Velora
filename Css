@@ -37,9 +37,13 @@ p2{font-family:georgia;
 
 h2 { text-align:center;
     font-weight:bold;}
-  
-li {display:list-item;
-margin-bottom:8px;}
+
+  ul {list_style_type:none;
+background-color:white;
+padding: 10px;}
+
+li {display:inline;
+margin-center:35 px;}
 
 body {background-color:aqua;
       border-radius:25px;}
