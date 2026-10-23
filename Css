@@ -40,10 +40,11 @@ h2 { text-align:center;
 
   ul {list_style_type:none;
 background-color:white;
-padding: 10px;}
+padding: 15px;margin:10 12px;}
 
-li {display:inline;
-margin-center:35 px;}
+li {display:inline-block;padding: 0 15px;
+     border-right: 2px solid black
+    margin-center:35 px;}
 
 body {background-color:aqua;
       border-radius:25px;}
